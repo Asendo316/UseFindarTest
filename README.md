@@ -52,6 +52,7 @@ mvn spring-boot:run
 3. CRUD for Books
 4. Swagger Documentation
 5. Thymeleaf Portal
+6. Unit Tests
 
 ### Step 6: Testing
 Swagger API Documentation: Your Spring Boot application is now running at http://localhost:8083/swagger-ui.html#/
